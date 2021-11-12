@@ -7,7 +7,7 @@ Activity, using appropriate View to obtain inputs from the user, which includes 
 down payment amount, loan period (year), and interest rate.
 
 Apply the following formules in the Main Activity:
-1. Car loan = car price — down payment
+1. Car loan = car price - down payment
 2. Interest = car loan * interest rate * loan period
 3. Monthly repayment = (car loan + interest) / loan period / 12 months
 
